@@ -11,7 +11,7 @@ pub fn main() {
 
 fn run() {
     // First check command line args
-    let args = parse_args();
+    let args = parse_args(true);
     if let Some(file_path) = args.first() {
         if let Some(file) = open_file(file_path) {
             if let Some(parsed) = parse(file) {
