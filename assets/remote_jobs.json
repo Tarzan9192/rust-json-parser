@@ -1,0 +1,474 @@
+{
+    "remote_sites": [
+        {
+            "category": "Major Job Platforms with Strong Remote Filters",
+            "sites": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://www.linkedin.com"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://www.indeed.com"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.com"
+                },
+                {
+                    "name": "Monster",
+                    "url": "https://www.monster.com"
+                }
+            ]
+        },
+        {
+            "category": "Remote-First Job Boards",
+            "sites": [
+                {
+                    "name": "FlexJobs",
+                    "url": "https://www.flexjobs.com"
+                },
+                {
+                    "name": "We Work Remotely",
+                    "url": "https://weworkremotely.com"
+                },
+                {
+                    "name": "Remote.co",
+                    "url": "https://remote.co"
+                },
+                {
+                    "name": "Working Nomads",
+                    "url": "https://www.workingnomads.co"
+                },
+                {
+                    "name": "RemoteOK",
+                    "url": "https://remoteok.io"
+                },
+                {
+                    "name": "JustRemote",
+                    "url": "https://justremote.co"
+                },
+                {
+                    "name": "Virtual Vocations",
+                    "url": "https://www.virtualvocations.com"
+                },
+                {
+                    "name": "Remotive",
+                    "url": "https://remotive.io"
+                },
+                {
+                    "name": "Skip the Drive",
+                    "url": "https://www.skipthedrive.com"
+                },
+                {
+                    "name": "Remote Work Hub",
+                    "url": "https://remoteworkhub.com"
+                }
+            ]
+        },
+        {
+            "category": "Tech-Focused Remote Job Sites",
+            "sites": [
+                {
+                    "name": "Stack Overflow Jobs",
+                    "url": "https://stackoverflow.com/jobs"
+                },
+                {
+                    "name": "GitHub Jobs",
+                    "url": "https://jobs.github.com"
+                },
+                {
+                    "name": "AngelList Talent",
+                    "url": "https://angel.co/jobs"
+                },
+                {
+                    "name": "Dice",
+                    "url": "https://www.dice.com"
+                },
+                {
+                    "name": "Gun.io",
+                    "url": "https://gun.io"
+                },
+                {
+                    "name": "Remotely Awesome Jobs",
+                    "url": "https://www.remotelyawesomejobs.com"
+                },
+                {
+                    "name": "React-Jobs",
+                    "url": "https://reactjsjob.com"
+                },
+                {
+                    "name": "Ruby Now",
+                    "url": "https://jobs.rubynow.com"
+                },
+                {
+                    "name": "Python Jobs",
+                    "url": "https://www.python.org/jobs"
+                },
+                {
+                    "name": "JavaScript Remote",
+                    "url": "https://jsremotely.com"
+                }
+            ]
+        },
+        {
+            "category": "Freelance Platforms with Remote Opportunities",
+            "sites": [
+                {
+                    "name": "Upwork",
+                    "url": "https://www.upwork.com"
+                },
+                {
+                    "name": "Fiverr",
+                    "url": "https://www.fiverr.com"
+                },
+                {
+                    "name": "Toptal",
+                    "url": "https://www.toptal.com"
+                },
+                {
+                    "name": "Freelancer",
+                    "url": "https://www.freelancer.com"
+                },
+                {
+                    "name": "PeoplePerHour",
+                    "url": "https://www.peopleperhour.com"
+                },
+                {
+                    "name": "Guru",
+                    "url": "https://www.guru.com"
+                },
+                {
+                    "name": "99designs",
+                    "url": "https://99designs.com"
+                },
+                {
+                    "name": "Contra",
+                    "url": "https://contra.com"
+                },
+                {
+                    "name": "Solidgigs",
+                    "url": "https://solidgigs.com"
+                },
+                {
+                    "name": "FreeeUp",
+                    "url": "https://freeeup.com"
+                }
+            ]
+        },
+        {
+            "category": "Industry-Specific Remote Job Boards",
+            "sites": [
+                {
+                    "name": "ProBlogger Job Board",
+                    "url": "https://problogger.com/jobs"
+                },
+                {
+                    "name": "SalesForce Remote Jobs",
+                    "url": "https://www.salesforce.com/company/careers"
+                },
+                {
+                    "name": "Remote Marketing Jobs",
+                    "url": "https://www.remotemarketingjobs.com"
+                },
+                {
+                    "name": "Remote Finance Jobs",
+                    "url": "https://remotefinancejobs.com"
+                },
+                {
+                    "name": "Remote Medical Jobs",
+                    "url": "https://remotemedicaljobs.com"
+                },
+                {
+                    "name": "Remote Legal Jobs",
+                    "url": "https://remotelegaljobs.com"
+                },
+                {
+                    "name": "Remote Education Jobs",
+                    "url": "https://remoteeducationjobs.com"
+                },
+                {
+                    "name": "Remote Customer Service Jobs",
+                    "url": "https://remotecustomerservicejobs.com"
+                },
+                {
+                    "name": "Remote HR Jobs",
+                    "url": "https://remotehrjobs.com"
+                },
+                {
+                    "name": "Remote Project Management Jobs",
+                    "url": "https://remotepmjobs.com"
+                }
+            ]
+        },
+        {
+            "category": "Startup-Focused Remote Job Boards",
+            "sites": [
+                {
+                    "name": "Y Combinator Jobs",
+                    "url": "https://www.ycombinator.com/jobs"
+                },
+                {
+                    "name": "F6S Jobs",
+                    "url": "https://www.f6s.com/jobs"
+                },
+                {
+                    "name": "StartupHire",
+                    "url": "https://www.startuphire.com"
+                },
+                {
+                    "name": "Startup.Jobs",
+                    "url": "https://startup.jobs"
+                },
+                {
+                    "name": "GrowthHackers Jobs",
+                    "url": "https://growthhackers.com/jobs"
+                }
+            ]
+        },
+        {
+            "category": "International Remote Job Sites",
+            "sites": [
+                {
+                    "name": "EuropeRemotely",
+                    "url": "https://europeremotely.com"
+                },
+                {
+                    "name": "Remote Europe",
+                    "url": "https://remote-europe.com"
+                },
+                {
+                    "name": "Remote UK",
+                    "url": "https://remoteuk.co.uk"
+                },
+                {
+                    "name": "Remote Canada",
+                    "url": "https://remotecanada.ca"
+                },
+                {
+                    "name": "Remote Australia",
+                    "url": "https://remoteaustralia.com"
+                }
+            ]
+        },
+        {
+            "category": "Niche Remote Job Platforms",
+            "sites": [
+                {
+                    "name": "PowerToFly",
+                    "url": "https://powertofly.com"
+                },
+                {
+                    "name": "Diversify Tech",
+                    "url": "https://www.diversifytech.co"
+                },
+                {
+                    "name": "Remote Woman",
+                    "url": "https://remotewoman.com"
+                },
+                {
+                    "name": "RemoteWoman.tech",
+                    "url": "https://remotewoman.tech"
+                },
+                {
+                    "name": "Remotely Jr",
+                    "url": "https://www.remotelyjr.com"
+                }
+            ]
+        },
+        {
+            "category": "Company-Specific Remote Job Pages",
+            "sites": [
+                {
+                    "name": "Amazon Remote Jobs",
+                    "url": "https://www.amazon.jobs/remote-jobs"
+                },
+                {
+                    "name": "Google Remote Jobs",
+                    "url": "https://careers.google.com"
+                },
+                {
+                    "name": "Microsoft Remote Jobs",
+                    "url": "https://careers.microsoft.com"
+                },
+                {
+                    "name": "Apple Remote Jobs",
+                    "url": "https://www.apple.com/careers"
+                },
+                {
+                    "name": "Cisco Remote Jobs",
+                    "url": "https://jobs.cisco.com"
+                }
+            ]
+        },
+        {
+            "category": "Gig Economy Platforms with Remote Options",
+            "sites": [
+                {
+                    "name": "TaskRabbit",
+                    "url": "https://www.taskrabbit.com"
+                },
+                {
+                    "name": "Wonolo",
+                    "url": "https://www.wonolo.com"
+                },
+                {
+                    "name": "GigWalk",
+                    "url": "https://www.gigwalk.com"
+                },
+                {
+                    "name": "CloudPeeps",
+                    "url": "https://www.cloudpeeps.com"
+                },
+                {
+                    "name": "Catalant",
+                    "url": "https://gocatalant.com"
+                }
+            ]
+        },
+        {
+            "category": "Creative Industry Remote Jobs",
+            "sites": [
+                {
+                    "name": "Behance Jobs",
+                    "url": "https://www.behance.net/joblist"
+                },
+                {
+                    "name": "Dribbble Jobs",
+                    "url": "https://dribbble.com/jobs"
+                },
+                {
+                    "name": "Krop",
+                    "url": "https://www.krop.com"
+                },
+                {
+                    "name": "Authentic Jobs",
+                    "url": "https://authenticjobs.com"
+                },
+                {
+                    "name": "Coroflot",
+                    "url": "https://www.coroflot.com/jobs"
+                }
+            ]
+        },
+        {
+            "category": "Remote Customer Support Jobs",
+            "sites": [
+                {
+                    "name": "Support Driven Job Board",
+                    "url": "https://supportdriven.com/jobs"
+                },
+                {
+                    "name": "We Support Remote",
+                    "url": "https://wesupportremote.com"
+                },
+                {
+                    "name": "RemoteCustomerServiceJobs",
+                    "url": "https://remotecustomerservicejobs.com"
+                },
+                {
+                    "name": "Support Adventure",
+                    "url": "https://supportadventure.com"
+                },
+                {
+                    "name": "ModSquad",
+                    "url": "https://modsquad.com/join-our-mods"
+                }
+            ]
+        },
+        {
+            "category": "Remote Sales Jobs",
+            "sites": [
+                {
+                    "name": "SalesHeads",
+                    "url": "https://www.salesheads.com"
+                },
+                {
+                    "name": "Sales Gravy",
+                    "url": "https://www.salesgravy.com/job-board"
+                },
+                {
+                    "name": "Sales Remote",
+                    "url": "https://salesremote.co"
+                },
+                {
+                    "name": "RemoteSalesJobs.com",
+                    "url": "https://remotesalesjobs.com"
+                },
+                {
+                    "name": "SalesJobs.com",
+                    "url": "https://www.salesjobs.com"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous Remote Job Resources",
+            "sites": [
+                {
+                    "name": "Remote Workers Club",
+                    "url": "https://remoteworkersclub.com"
+                },
+                {
+                    "name": "Jobspresso",
+                    "url": "https://jobspresso.co"
+                },
+                {
+                    "name": "EuropeLanguageJobs",
+                    "url": "https://www.europelanguagejobs.com"
+                },
+                {
+                    "name": "Outsourcely",
+                    "url": "https://www.outsourcely.com"
+                },
+                {
+                    "name": "Remotees",
+                    "url": "https://remotees.com"
+                },
+                {
+                    "name": "Remote Circle",
+                    "url": "https://remotecircle.com"
+                },
+                {
+                    "name": "Remote Tribe",
+                    "url": "https://remotetribe.io"
+                },
+                {
+                    "name": "Remote Leaf",
+                    "url": "https://remoteleaf.com"
+                },
+                {
+                    "name": "Pangian",
+                    "url": "https://pangian.com"
+                },
+                {
+                    "name": "Remote Work Junkie",
+                    "url": "https://remoteworkjunkie.com"
+                },
+                {
+                    "name": "Remote.com",
+                    "url": "https://remote.com"
+                },
+                {
+                    "name": "Remote Jobs Club",
+                    "url": "https://remotejobsclub.com"
+                },
+                {
+                    "name": "Remote Work Directory",
+                    "url": "https://remoteworkdirectory.com"
+                },
+                {
+                    "name": "Remote Workers",
+                    "url": "https://remoteworkers.net"
+                },
+                {
+                    "name": "Working Remote.ly",
+                    "url": "https://workingremote.ly"
+                }
+            ]
+        }
+    ]
+}
