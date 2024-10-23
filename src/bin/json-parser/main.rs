@@ -1,6 +1,6 @@
 mod ui;
 
-use json_parser::file_manager::*;
+use file_manager::*;
 use json_parser::io::*;
 use json_parser::json::*;
 use ui::*;
