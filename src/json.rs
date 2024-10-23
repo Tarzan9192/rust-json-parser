@@ -36,7 +36,6 @@ where
 mod tests {
 
     use remote_jobs::{RemoteJobCategory, Website};
-    use serde_json::json;
     use std::io::BufReader;
 
     use super::*;
